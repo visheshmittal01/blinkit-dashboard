@@ -25,3 +25,13 @@ The goal of this project is to analyze:
 * **Outlet Breakdown:** Analysis revealing that Supermarket Type 1 contributes 69.1% of total sales.
 * **Location Tiering:** A funnel chart showing Tier 3 locations leading with 8,97,067.63 in sales.
 * **Customer Preferences:** Highlights that 65% of total sales come from "Low Fat" products compared to "Regular" fat content.
+
+---
+### 👤 Author
+<b>Vishesh Mittal</b><br>
+<a href="https://www.linkedin.com/in/visheshmittal05/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://visheshmittal01.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logoColor=white" alt="Website">
+</a>
